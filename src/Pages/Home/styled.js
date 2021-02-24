@@ -28,3 +28,10 @@ export const Container = styled.div`
     align-items: center;
     justify-content: center;
 `;
+
+export const ErrorMsg = styled.p`
+    display: block;
+    font-size: 0.65rem;
+    color: red;
+    font-weight: 600;
+`;

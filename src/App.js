@@ -1,4 +1,4 @@
-import Routes from './routes';
+import React from 'react';
 
 function App(props) {
   return (
